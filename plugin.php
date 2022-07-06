@@ -27,7 +27,7 @@ function init()
 
 	$this->eso->addToBar("right", "<a href='" . makeLink("members") . "' id='membersLink'><span class='button buttonSmall'><input type='submit' value='{$language["Member-plural"]}'></span></a>");
 
-	if ($this->eso->action == "members") $this->eso->addCSS("plugins/MembersList/members.css");
+	if ($this->eso->action == "members") $this->eso->addCSS("plugins/MemberList/members.css");
 }
 
 }

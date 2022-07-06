@@ -8,7 +8,7 @@ if (!defined("IN_ESO")) exit;
  */
 class members extends Controller {
 	
-var $view = "../plugins/MembersList/members.view.php";
+var $view = "../plugins/MemberList/members.view.php";
 
 function init()
 {
