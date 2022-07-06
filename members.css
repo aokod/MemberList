@@ -1,0 +1,3 @@
+.form div {float:none; line-height:unset}
+.form .msg {float:none; font-size:unset; margin:0; padding:5px 10px}
+.form input.text, .form select {width:unset}
