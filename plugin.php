@@ -12,7 +12,7 @@ var $author = "grntbg";
 
 function init()
 {
-	global $languages;
+	global $language;
 
 	parent::init();
 
